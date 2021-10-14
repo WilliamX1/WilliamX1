@@ -28,14 +28,13 @@ I'm **WilliamX1**, an undergraduate from [Shanghai Jiao Tong University](http://
 - 📫 Contact me: 391678792hd[At]sjtu[dot]edu[dot]cn
 
 <h4>languages and frames</h4>
-<table>
-  <tr>
-    <td>C++<img src="https://edent.github.io/SuperTinyIcons/images/svg/cplusplus.svg" width="125" title="C++"/></td>
-    <td>Python<img src="https://edent.github.io/SuperTinyIcons/images/svg/python.svg" width="125" title="Python" /></td>
-    <td>Java<img src="https://edent.github.io/SuperTinyIcons/images/svg/java.svg" width="125" title="Java" /></td>
-    <td>JavaScript<img src="https://edent.github.io/SuperTinyIcons/images/svg/javascript.svg" width="125" title="JavaScript" /></td>
-    <td>Vue<img src="https://edent.github.io/SuperTinyIcons/images/svg/vue.svg" width="125" title="Vue" /></td>
-    <td>React<img src="https://edent.github.io/SuperTinyIcons/images/svg/react.svg" width="125" title="React" /></td>
+<div>
+     <img src="https://edent.github.io/SuperTinyIcons/images/svg/cplusplus.svg" width="50" title="C++"/>
+     <img src="https://edent.github.io/SuperTinyIcons/images/svg/python.svg" width="50" title="Python" />
+     <img src="https://edent.github.io/SuperTinyIcons/images/svg/java.svg" width="50" title="Java" />
+     <img src="https://edent.github.io/SuperTinyIcons/images/svg/javascript.svg" width="50" title="JavaScript" />
+     <img src="https://edent.github.io/SuperTinyIcons/images/svg/vue.svg" width="50" title="Vue" />
+     <img src="https://edent.github.io/SuperTinyIcons/images/svg/react.svg" width="50" title="React" />
   </tr>
 </table>
 <h4>operating systems</h4>
