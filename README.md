@@ -13,12 +13,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hello world :earth_china:
+### Hello world :china:
 ![GitHub followers](https://img.shields.io/github/followers/WilliamX1?style=social)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=WilliamX1)
 
 This is **WilliamX1**, an undergraduate from [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/) majoring in [Software engineering](http://www.se.sjtu.edu.cn/).
 
-[![WilliamX1's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=WilliamX1&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamX1&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 📫 Contact me: 391678792hd[At]sjtu[dot]edu[dot]cn
