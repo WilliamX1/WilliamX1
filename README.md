@@ -19,6 +19,8 @@ Here are some ideas to get you started:
 
 I'm **WilliamX1**, an undergraduate from [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/) majoring in [Software engineering](http://www.se.sjtu.edu.cn/).
 
+<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamX1&layout=compact&theme=buefy&hide_border=true"/>
+     
 **About me**
 - 👯 I’m focusing on studying machine learning and deep learning
 - ❤️ I love coding on practical projects as well, like websites and games.
@@ -46,5 +48,3 @@ I'm **WilliamX1**, an undergraduate from [Shanghai Jiao Tong University](http://
     <td>Ubuntu<img src="https://edent.github.io/SuperTinyIcons/images/svg/ubuntu.svg" width="125" title="Ubuntu" /></td>
   </tr>
 </table>
-
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamX1&layout=compact&theme=buefy&hide_border=true" /></a> |
