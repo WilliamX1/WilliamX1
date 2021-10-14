@@ -25,7 +25,7 @@ I'm **WilliamX1**, an undergraduate from [Shanghai Jiao Tong University](http://
 - 👯 I’m focusing on studying machine learning and deep learning
 - ❤️ I love coding on practical projects as well, like websites and games.
 - 💬 Ask me about anything [here](https://github.com/WilliamX1/WilliamX1/issues)
-- 📫 Contact me: 391678792hd[At]sjtu[dot]edu[dot]cn
+- 📫 Contact me: <1447507152@qq.com> &nbsp; <huidxu@gmail.com>
 
 <h4>languages and frames</h4>
 <div>
