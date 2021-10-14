@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 I'm **WilliamX1**, an undergraduate from [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/) majoring in [Software engineering](http://www.se.sjtu.edu.cn/).
 
-<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamX1&layout=compact&theme=buefy&hide_border=false"/>
+<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamX1&&langs_count=8theme=algolia"/>
      
 **About me**
 - 👯 I’m focusing on studying machine learning and deep learning
