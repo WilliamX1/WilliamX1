@@ -29,21 +29,19 @@ I'm **WilliamX1**, an undergraduate from [Shanghai Jiao Tong University](http://
 
 <h4>languages and frames</h4>
 <div>
-     <img src="https://edent.github.io/SuperTinyIcons/images/svg/cplusplus.svg" width="50" title="C++"/>
-     <img src="https://edent.github.io/SuperTinyIcons/images/svg/python.svg" width="50" title="Python" />
-     <img src="https://edent.github.io/SuperTinyIcons/images/svg/java.svg" width="50" title="Java" />
-     <img src="https://edent.github.io/SuperTinyIcons/images/svg/javascript.svg" width="50" title="JavaScript" />
-     <img src="https://edent.github.io/SuperTinyIcons/images/svg/vue.svg" width="50" title="Vue" />
-     <img src="https://edent.github.io/SuperTinyIcons/images/svg/react.svg" width="50" title="React" />
+     <img src="https://edent.github.io/SuperTinyIcons/images/svg/cplusplus.svg" width="50" title="C++"/> &nbsp;
+     <img src="https://edent.github.io/SuperTinyIcons/images/svg/python.svg" width="50" title="Python" /> &nbsp;
+     <img src="https://edent.github.io/SuperTinyIcons/images/svg/java.svg" width="50" title="Java" /> &nbsp;
+     <img src="https://edent.github.io/SuperTinyIcons/images/svg/javascript.svg" width="50" title="JavaScript" /> &nbsp;
+     <img src="https://edent.github.io/SuperTinyIcons/images/svg/vue.svg" width="50" title="Vue" /> &nbsp;
+     <img src="https://edent.github.io/SuperTinyIcons/images/svg/react.svg" width="50" title="React" /> &nbsp;
   </tr>
-</table>
+</div>
 <h4>operating systems</h4>
-<table>
-  <tr>
-    <td>Windows<img src="https://edent.github.io/SuperTinyIcons/images/svg/windows.svg" width="125" title="Microsoft Windows" /></td>
-    <td>macOS<img src="https://edent.github.io/SuperTinyIcons/images/svg/macos.svg" width="125" title="macOS"/></td>
-    <td>GNU/Linux<img src="https://edent.github.io/SuperTinyIcons/images/svg/linux.svg" width="125" title="Linux" /></td>
-    <td>Debian<img src="https://edent.github.io/SuperTinyIcons/images/svg/debian.svg" width="125" title="Debian"/></td>
-    <td>Ubuntu<img src="https://edent.github.io/SuperTinyIcons/images/svg/ubuntu.svg" width="125" title="Ubuntu" /></td>
-  </tr>
-</table>
+<div>
+     <img src="https://edent.github.io/SuperTinyIcons/images/svg/windows.svg" width="125" title="Microsoft Windows" /> &nbsp;
+     <img src="https://edent.github.io/SuperTinyIcons/images/svg/macos.svg" width="125" title="macOS"/> &nbsp;
+     <img src="https://edent.github.io/SuperTinyIcons/images/svg/linux.svg" width="125" title="Linux" /> &nbsp;
+     <img src="https://edent.github.io/SuperTinyIcons/images/svg/debian.svg" width="125" title="Debian"/> &nbsp;
+     <img src="https://edent.github.io/SuperTinyIcons/images/svg/ubuntu.svg" width="125" title="Ubuntu" /> &nbsp;
+</div>
