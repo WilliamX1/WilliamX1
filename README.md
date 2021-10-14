@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 I'm **WilliamX1**, an undergraduate from [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/) majoring in [Software engineering](http://www.se.sjtu.edu.cn/).
 
-<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamX1&layout=compact&theme=buefy&hide_border=true"/>
+<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamX1&layout=compact&theme=buefy&hide_border=false"/>
      
 **About me**
 - 👯 I’m focusing on studying machine learning and deep learning
@@ -39,9 +39,9 @@ I'm **WilliamX1**, an undergraduate from [Shanghai Jiao Tong University](http://
 </div>
 <h4>operating systems</h4>
 <div>
-     <img src="https://edent.github.io/SuperTinyIcons/images/svg/windows.svg" width="125" title="Microsoft Windows" /> &nbsp;
-     <img src="https://edent.github.io/SuperTinyIcons/images/svg/macos.svg" width="125" title="macOS"/> &nbsp;
-     <img src="https://edent.github.io/SuperTinyIcons/images/svg/linux.svg" width="125" title="Linux" /> &nbsp;
-     <img src="https://edent.github.io/SuperTinyIcons/images/svg/debian.svg" width="125" title="Debian"/> &nbsp;
-     <img src="https://edent.github.io/SuperTinyIcons/images/svg/ubuntu.svg" width="125" title="Ubuntu" /> &nbsp;
+     <img src="https://edent.github.io/SuperTinyIcons/images/svg/windows.svg" width="50" title="Microsoft Windows" /> &nbsp;
+     <img src="https://edent.github.io/SuperTinyIcons/images/svg/macos.svg" width="50" title="macOS"/> &nbsp;
+     <img src="https://edent.github.io/SuperTinyIcons/images/svg/linux.svg" width="50" title="Linux" /> &nbsp;
+     <img src="https://edent.github.io/SuperTinyIcons/images/svg/debian.svg" width="50" title="Debian"/> &nbsp;
+     <img src="https://edent.github.io/SuperTinyIcons/images/svg/ubuntu.svg" width="50" title="Ubuntu" /> &nbsp;
 </div>
