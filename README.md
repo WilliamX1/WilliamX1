@@ -28,20 +28,20 @@ I'm **WilliamX1**, an undergraduate from [Shanghai Jiao Tong University](http://
 <Summary><b>Technology Stack</b></summary>
 <h4>languages and frames</h4>
 <tr>
-  <td>C++<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/cplusplus.svg" width="125" title="C++"/><br>776 Bytes</td>
-  <td>Python<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/python.svg" width="125" title="Python" /><br>559 Bytes</td>
-  <td>Java<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/java.svg" width="125" title="Java" /><br>835 Bytes</td>
-  <td>JavaScript<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/javascript.svg" width="125" title="JavaScript" /><br>519 Bytes</td>
-  <td>Vue<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/vue.svg" width="125" title="Vue" /><br>272 Bytes</td>
-  <td>React<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/react.svg" width="125" title="React" /><br>360 Bytes</td>
+  <td>C++<img src="https://edent.github.io/SuperTinyIcons/images/svg/cplusplus.svg" width="125" title="C++"/></td>
+  <td>Python<img src="https://edent.github.io/SuperTinyIcons/images/svg/python.svg" width="125" title="Python" /></td>
+  <td>Java<img src="https://edent.github.io/SuperTinyIcons/images/svg/java.svg" width="125" title="Java" /></td>
+  <td>JavaScript<img src="https://edent.github.io/SuperTinyIcons/images/svg/javascript.svg" width="125" title="JavaScript" /></td>
+  <td>Vue<img src="https://edent.github.io/SuperTinyIcons/images/svg/vue.svg" width="125" title="Vue" /></td>
+  <td>React<img src="https://edent.github.io/SuperTinyIcons/images/svg/react.svg" width="125" title="React" /></td>
 </tr>
 <h4>operating systems</h4>
 <tr>
-  <td>Windows<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/windows.svg" width="125" title="Microsoft Windows" /><br>252 Bytes</td>
-  <td>macOS<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/macos.svg" width="125" title="macOS"/><br>774 Bytes</td>
-  <td>GNU/Linux<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/linux.svg" width="125" title="Linux" /><br>965 Bytes</td>
-  <td>Debian<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/debian.svg" width="125" title="Debian"/><br>937 Bytes</td>
-  <td>Ubuntu<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/ubuntu.svg" width="125" title="Ubuntu" /><br>455 Bytes</td>
+  <td>Windows<img src="https://edent.github.io/SuperTinyIcons/images/svg/windows.svg" width="125" title="Microsoft Windows" /></td>
+  <td>macOS<img src="https://edent.github.io/SuperTinyIcons/images/svg/macos.svg" width="125" title="macOS"/></td>
+  <td>GNU/Linux<img src="https://edent.github.io/SuperTinyIcons/images/svg/linux.svg" width="125" title="Linux" /></td>
+  <td>Debian<img src="https://edent.github.io/SuperTinyIcons/images/svg/debian.svg" width="125" title="Debian"/></td>
+  <td>Ubuntu<img src="https://edent.github.io/SuperTinyIcons/images/svg/ubuntu.svg" width="125" title="Ubuntu" /></td>
 </tr>
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=WilliamX1&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="WilliamX1's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamX1&layout=compact&theme=buefy&hide_border=true" /></a> |
