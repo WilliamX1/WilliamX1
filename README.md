@@ -22,8 +22,10 @@ I'm **WilliamX1**, an undergraduate from [Shanghai JiaoTong University](http://e
 <img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamX1&langs_count=8&theme=algolia"/>
      
 **About me**
+
 - 👯 I’m focusing on studying [machine learning and deep learning](https://github.com/WilliamX1/machine-learning).
 - ❤️ I love coding on practical projects as well, like [e-book](https://github.com/WilliamX1/bookstore) and games.
+- 😄 Click [here](https://github.com/WilliamX1/WilliamX1/CV/CV.pdf) to get my resume.
 - 💬 Ask me about anything [here](https://github.com/WilliamX1/WilliamX1/issues)
 - 📫 Contact me: <1447507152@qq.com> <huidxu@gmail.com>
 
