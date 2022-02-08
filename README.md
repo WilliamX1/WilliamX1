@@ -25,7 +25,7 @@ I'm **WilliamX1**, an undergraduate from [Shanghai JiaoTong University](http://e
 
 - 👯 I’m focusing on studying [machine learning and deep learning](https://github.com/WilliamX1/machine-learning).
 - ❤️ I love coding on practical projects as well, like [e-book](https://github.com/WilliamX1/bookstore) and games.
-- 😄 Click [here](https://github.com/WilliamX1/WilliamX1/tree/main/CV/CV.pdf) or [here](https://github.com/WilliamX1/WilliamX1/blob/main/CV-1/CV.pdf) to get my resume.
+- 😄 Click [HuidongXu-CV-English](https://github.com/WilliamX1/WilliamX1/tree/main/CV-School/HuidongXu-CV-English.pdf) or [徐惠东-校招简历](https://github.com/WilliamX1/WilliamX1/blob/main/CV-School/徐惠东-校招简历.pdf) to get my resume.
 - 💬 Ask me about anything [here](https://github.com/WilliamX1/WilliamX1/issues)
 - 📫 Contact me: <1447507152@qq.com> <huidxu@gmail.com>
 
