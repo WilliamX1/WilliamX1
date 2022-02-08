@@ -19,15 +19,15 @@ Here are some ideas to get you started:
 
 I'm **WilliamX1**, an undergraduate from [Shanghai JiaoTong University](http://en.sjtu.edu.cn/) majoring in [Software Engineering](http://www.se.sjtu.edu.cn/).
 
-<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamX1&langs_count=8&theme=algolia"/>
-     
+<img align='right' src=src="https://github-readme-stats.vercel.app/api?username=William&count_private=true&show_icons=true&theme=vue-dark&hide_title=true">
+
 **About me**
 
 - 👯 I’m focusing on studying [machine learning and deep learning](https://github.com/WilliamX1/machine-learning).
-- ❤️ I love coding on practical projects as well, like [e-book](https://github.com/WilliamX1/bookstore) and games.
+- ❤️ I love coding on practical projects as well, like [e-book](https://github.com/WilliamX1/bookstore) and [compiler](https://github.com/WilliamX1/compiler).
 - 😄 Click [HuidongXu-CV-English](https://github.com/WilliamX1/WilliamX1/tree/main/CV-School/HuidongXu-CV-English.pdf) or [徐惠东-校招简历](https://github.com/WilliamX1/WilliamX1/blob/main/CV-School/徐惠东-校招简历.pdf) to get my resume.
 - 💬 Ask me about anything [here](https://github.com/WilliamX1/WilliamX1/issues)
-- 📫 Contact me: <1447507152@qq.com> <huidxu@gmail.com>
+- 📫 Contact me: <HuiD_Xu@163.com>
 
 <h4>languages and frames</h4>
 <div>
