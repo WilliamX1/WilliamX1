@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 I'm **WilliamX1**, an undergraduate from [Shanghai JiaoTong University](http://en.sjtu.edu.cn/) majoring in [Software Engineering](http://www.se.sjtu.edu.cn/).
 
-<img align='right' src=src="https://github-readme-stats.vercel.app/api?username=William&count_private=true&show_icons=true&theme=vue-dark&hide_title=true">
+<img align='right' src=src="https://github-readme-stats.vercel.app/api?username=WilliamX1&count_private=true&show_icons=true&theme=vue-dark&hide_title=true">
 
 **About me**
 
