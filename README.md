@@ -24,6 +24,6 @@ I'm **Huidong Xu**, an undergraduate from [Shanghai JiaoTong University](http://
 
 - 👯 I’m focusing on studying [machine learning and deep learning](https://github.com/WilliamX1/machine-learning).
 - ❤️ I love coding on practical projects as well, like [e-book](https://github.com/WilliamX1/bookstore) and [compiler](https://github.com/WilliamX1/compiler).
-- 😄 Click [HuidongXu-CV-English](https://github.com/WilliamX1/WilliamX1/tree/main/CV-School/HuidongXu-CV-English.pdf) or [徐惠东-校招简历](https://github.com/WilliamX1/WilliamX1/blob/main/CV-School/徐惠东-校招简历.pdf) to get my resume.
+- 😄 Click [Huidong_Xu_Resume](https://github.com/WilliamX1/WilliamX1/tree/main/CV-School/Huidong_Xu_Resume.pdf) to get my resume.
 - 💬 Ask me about anything [here](https://github.com/WilliamX1/WilliamX1/issues)
 - 📫 Contact me: <HuiD_Xu@163.com>
