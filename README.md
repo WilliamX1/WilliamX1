@@ -22,6 +22,7 @@ I'm **Huidong Xu**, an undergraduate from [Shanghai Jiao Tong University](http:/
 
 **About me**
 
+- 🌱 Come to [青铜葵花的博客](https://blog.treasuredong.com/about) to know who I am.
 - ❤️ I love coding on practical projects as well, like [minik8s](https://github.com/WilliamX1/minik8s) and [compiler](https://github.com/WilliamX1/tiger-compiler).
 - 😄 Click [Huidong_Xu_Resume](https://babydong.cn/WilliamX1/Huidong_Xu_Resume.pdf) to get my resume.
 - 💬 Ask me about anything [here](https://github.com/WilliamX1/WilliamX1/issues)
